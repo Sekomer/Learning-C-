@@ -1,4 +1,9 @@
 # Learning-C-
 
-my journey of learning C
-I upload here interesting things that i've learnt or implemented 
+~Recording my journey through learning C
+
+#Contents 
+
+* Intr to Sci&Eng Comp (C) Homeworks, Exams etc.
+* Algorithm Problems 
+* Basic implementations of the things that i've learnt
